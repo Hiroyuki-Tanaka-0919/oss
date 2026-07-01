@@ -1,0 +1,14 @@
+Connected to s323.xrea.com.
+220 160.251.151.145 FTP server ready
+331 Password required for ht0919
+230 User ht0919 logged in
+Remote system type is UNIX.
+Using binary mode to transfer files.
+250 CWD command successful
+200 Type set to A
+local: index.html remote: index.html
+229 Entering Extended Passive Mode (|||63172|)
+150 Opening ASCII mode data connection for index.html
+226 Transfer complete
+7477 bytes sent in 00:00 (117.59 KiB/s)
+221 Goodbye.

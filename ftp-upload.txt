@@ -1,0 +1,6 @@
+open s323.xrea.com
+user ht0919 tMiwrrovNPLL
+cd public_html/oss
+ascii
+put index.html
+bye
