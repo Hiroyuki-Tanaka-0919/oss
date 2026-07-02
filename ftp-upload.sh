@@ -1,2 +1,2 @@
 #!/bin/bash
-ftp -n -v < ftp-upload.txt
+ftp -n -v < .ftp-xrea
