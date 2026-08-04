@@ -10,7 +10,7 @@
   <hr>
   <ul>
     <li><a href="https://pypi.org/project/pyfishsay/">pyfishsay</a> - Pythonで作った魚が喋るやつ（PYPI）</li>
-    <li><a href="http://ht0919.s323.xrea.com/lifespan/index.php">lifespan</a> - PHPで作った余命を計算するWebアプリ</li>
+    <li><a href="http://ht0919.s323.xrea.com/lifespan/index.php">lifespan</a> - PHPで作った平均余命を表示するWebアプリ</li>
   </ul>
   <hr>
   <center>Copyright © 2026 Hiroyuki Tanaka.</center>
